@@ -27,10 +27,6 @@ Web front, backend Full stack Nomad 선생님
 ## 프로그램 기능
 
 #### Html, css, Vanlia JS기반 todolist 기능
-![image](https://user-images.githubusercontent.com/44837403/114271437-4f168500-9a4c-11eb-8bc8-f4d8bf72cf1e.png)
-![image](https://user-images.githubusercontent.com/44837403/114271447-5a69b080-9a4c-11eb-9955-d01a91d076c3.png)
-![image](https://user-images.githubusercontent.com/44837403/114271452-635a8200-9a4c-11eb-9133-487ac2bb8d54.png)
-
 
 - Init & insert
 
@@ -50,20 +46,16 @@ Web front, backend Full stack Nomad 선생님
 
 #### 배경이미지 설정 기능
 
-![image](https://user-images.githubusercontent.com/44837403/114271463-71a89e00-9a4c-11eb-9297-51dd95f655a4.png)
-
 랜덤하게 배경이미지 설정
 
-#### 날씨API를 받아와서 웹 화면에 보여주는 기능
-![image](https://user-images.githubusercontent.com/44837403/114271491-94d34d80-9a4c-11eb-9c83-02a3493be0ed.png)
-![image](https://user-images.githubusercontent.com/44837403/114271516-a7e61d80-9a4c-11eb-8567-c3d6009eec8a.png)
 
+#### 날씨API를 받아와서 웹 화면에 보여주는 기능
 
 현재 위치를 기준으로 날씨 Api를 받아와서 화면에 표시해주는 기능  
 
+
 #### 출력 화면 
 ![image](https://user-images.githubusercontent.com/44837403/114271533-c5b38280-9a4c-11eb-98c0-53f28d7eb6fa.png)
-
 
 
 ## 느낀점
