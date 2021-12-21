@@ -2,7 +2,7 @@
 get Weather info, time, and background image (basic)
 
 
-웹에 관해서, 그 중에서도 VanliaJs에 대해서 공부하고 강의들을 수강한뒤, 최종 실습 파트 부분에서 만든 코드입니다.
+VanliaJs에 대해서 공부하고 정리한 실습코드
 
 
 ## 강의 제목 및 출처
