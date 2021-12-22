@@ -10,12 +10,6 @@ https://nomadcoders.co/javascript-for-beginners
 
 Web front, backend Full stack Nomad 선생님
 
-## 목차
-
-![image](https://user-images.githubusercontent.com/44837403/114271546-df54ca00-9a4c-11eb-97ad-5c9c9071c195.png)
-![image](https://user-images.githubusercontent.com/44837403/114271548-e4197e00-9a4c-11eb-838d-bf1d0272e49d.png)
-![image](https://user-images.githubusercontent.com/44837403/114271555-e8de3200-9a4c-11eb-9431-3cee3fa2c515.png)
-
 
 ## 진행 기간
 2020-07-8 ~ 2020-07-15
