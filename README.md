@@ -39,6 +39,3 @@ Web front, backend Full stack Nomad
 
 
 
-
-
-
