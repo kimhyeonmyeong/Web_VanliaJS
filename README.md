@@ -4,9 +4,13 @@ get Weather info, time, and background image (basic)
 VanliaJs에 대해서 공부하고 정리한 실습코드
 
 ### 강의 제목 및 출처
-https://nomadcoders.co/javascript-for-beginners
-
+https://nomadcoders.co/javascript-for-beginners   
 Web front, backend Full stack Nomad
+
+
+### 목차
+
+![image](https://user-images.githubusercontent.com/44837403/153227280-204db79c-c970-424d-950d-d83062658e52.png)
 
 
 ### 진행 기간
