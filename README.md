@@ -10,8 +10,10 @@ Web front, backend Full stack Nomad
 
 ### 목차
 
-![image](https://user-images.githubusercontent.com/44837403/153227280-204db79c-c970-424d-950d-d83062658e52.png)
+![image](https://user-images.githubusercontent.com/44837403/153227280-204db79c-c970-424d-950d-d83062658e52.png)   
+...
 
+(전체 목차 60/60)
 
 ### 진행 기간
 2020-07-8 ~ 2020-07-15
