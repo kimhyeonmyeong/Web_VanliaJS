@@ -3,17 +3,18 @@ get Weather info, time, and background image (basic)
 
 VanliaJs에 대해서 공부하고 정리한 실습코드
 
-### 강의 제목 및 출처
+### Reference
 https://nomadcoders.co/javascript-for-beginners   
 Web front, backend Full stack Nomad
 
 
-### 목차
+### 구성
 
-![image](https://user-images.githubusercontent.com/44837403/153227280-204db79c-c970-424d-950d-d83062658e52.png)   
+![image](https://user-images.githubusercontent.com/44837403/181672258-e31fc073-0665-4f2b-a77b-8a6628d2eb7e.png)
+
 ...
 
-(전체 목차 60/60)
+(전체 60/60)
 
 ### 진행 기간
 2020-07-8 ~ 2020-07-15
@@ -32,9 +33,12 @@ Web front, backend Full stack Nomad
 
 - 배경이미지 랜덤 설정 
 
-- 현재 위치에 맞는 날씨API를 받아와서 웹 화면에 보여주기
+- 현재 위치에 맞는 날씨API를 받아와서 웹 화면에 보여줌
 
-![image](https://user-images.githubusercontent.com/44837403/147017659-c01d504f-29c5-4569-8ad1-ce56824f55ec.png)
+
+### View
+
+![image](https://user-images.githubusercontent.com/44837403/181672094-6ed7361e-ea1e-478f-94cd-3b23fcd1f945.png)
 
 
 
