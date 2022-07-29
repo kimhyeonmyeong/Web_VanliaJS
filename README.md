@@ -8,16 +8,11 @@ https://nomadcoders.co/javascript-for-beginners
 Web front, backend Full stack Nomad
 
 
-### 구성
-
-![image](https://user-images.githubusercontent.com/44837403/181672258-e31fc073-0665-4f2b-a77b-8a6628d2eb7e.png)
-
-...
-
-(전체 60/60)
-
 ### 진행 기간
 2020-07-8 ~ 2020-07-15
+
+### 구성
+![image](https://user-images.githubusercontent.com/44837403/181672490-7117b50e-8595-4176-87bc-ddf4a86f422f.png)
 
 ### Specification
 
