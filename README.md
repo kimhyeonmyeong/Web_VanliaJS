@@ -6,13 +6,30 @@ VanliaJs 공부 및 정리
 2020-07-8 ~ 2020-07-15
 
 ### 구성
-![image](https://user-images.githubusercontent.com/44837403/181672490-7117b50e-8595-4176-87bc-ddf4a86f422f.png)
 
-### Specification
+#### 이론    
+Variables   
+Functions   
+Data Types    
+Arrays, Objects   
+DOM Functions   
+Events    
+if / else / for   
+
+#### 개발 실습
+
+JS Clock    
+JS To Do List   
+Get Geolocation   
+Get Weather Information   
+Deploy to Github Pages    
+
+
+### 관통 실습 프로젝트
 
 - Html, css, Vanlia JS기반 todolist 기능
 
-- Init & insert
+- Init & insert 기능
 
 - store
 
@@ -22,7 +39,7 @@ VanliaJs 공부 및 정리
 
 - 배경이미지 랜덤 설정 
 
-- 현재 위치에 맞는 날씨API를 받아와서 웹 화면에 보여줌
+- 현재 위치에 맞는 날씨API를 받아와서 웹 화면에 보여주기
 
 
 ### View
